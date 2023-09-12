@@ -2,7 +2,7 @@
 #### 🎓 Acadêmico de Economia na UFPR
 #### 🔍 Foco: Análise Descritiva | Análise Financeira | Econometria Financeira | Investimentos Quantitativos
 
-![🎓 Acadêmico de Economia na UFPR 🔍 Foco: Análise Descritiva | Análise Financeira | Econometria Financeira | Investimentos Quantitativos](https://blog.fecap.br/wp-content/uploads/fecap-financas-corporativas-1200x627.jpg)
+![🎓 Acadêmico de Economia na UFPR 🔍 Foco: Análise Descritiva | Análise Financeira | Econometria Financeira | Investimentos Quantitativos](https://cptstatic.s3.amazonaws.com/imagens/enviadas/materias/materia28205/organizar-financas-empresariais-cursos-cpt.jpg)
 
 📈 O nosso repositório de finanças corporativas é o lugar ideal para compartilhar e acessar exercícios resolvidos, promovendo o aprendizado e o aprimoramento constante das práticas financeiras nas empresas.
 
